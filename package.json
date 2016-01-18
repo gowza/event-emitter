@@ -1,0 +1,17 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-emitter.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roderickObrist/event-emitter.git"
+  },
+  "author": "Roderick Obrist",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/roderickObrist/event-emitter/issues"
+  },
+  "homepage": "https://github.com/roderickObrist/event-emitter#readme"
+}
